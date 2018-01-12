@@ -8,7 +8,8 @@
 Cada uno de los .cpp compila en su propio script, cada uno de ellos realiza diferentes tareas, descritas a continuación:
 
 **Modificar_plantillas.cpp**: Requiere del un archivo índice (línea 955) que contenga los nombres de los archivos de plantilla (como teams.dir) y realiza diversas funciones:
-			      1. Reinicia estadísticas.
+
+Markup : 		      1. Reinicia estadísticas.
 			      2. Envejece un año a los jugadores.
 			      3. Ordena por media.
 			      4. Añade/resta experiencia según los minutos jugados, la edad y la media principal (diferente para los GKs). Ir a línea 234.
