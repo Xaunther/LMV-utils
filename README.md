@@ -1,6 +1,6 @@
 ## Contenidos
 
-Este repositorio contiene el código de diversos programas usados en ligamanagervirtual.com (LMV), en lenguaje C++.
+Este repositorio contiene el código de diversos programas usados en http://ligamanagervirtual.com (LMV), en lenguaje C++.
 Desde que se escribieron las primeras líneas hasta las últimas han pasado casi 5 años, en los cuales mi conocimiento sobre C++ ha aumentado considerablemente.
 
 Es por eso que el código está dividido en 2 carpetas:
