@@ -1,7 +1,6 @@
 /************************************************/
-/* Nombre: Alejandro                            */
-/* Apellidos: Alfonso Albero                    */
-/* Práctica final: Gestión de un Videoclub      */
+/* Nombre: Xaunther                             */
+/* E-mail: alex.1993.24@gmail.com               */
 /************************************************/
 
 //Librerías que se incluyen
