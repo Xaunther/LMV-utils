@@ -1,6 +1,6 @@
 //Funciones de la clase jugador
-#include "jugador.h"
-#include "textmisc.h"
+#include "lib/jugador.h"
+#include "lib/textmisc.h"
 #include <string>
 #include <sstream>
 #include <stdlib.h>

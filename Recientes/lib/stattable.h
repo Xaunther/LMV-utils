@@ -1,8 +1,8 @@
 #ifndef stattable_h
 #define stattable_h
 
-#include "tablemember.h"
-#include "constantes.h"
+#include "lib/tablemember.h"
+#include "lib/constantes.h"
 using namespace std;
 
 //Clase tabla goleadores

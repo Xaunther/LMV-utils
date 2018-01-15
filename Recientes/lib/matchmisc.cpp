@@ -1,8 +1,8 @@
 //Resto de funciones relacionadas con el partido
-#include "matchmisc.h"
-#include "stattable.h"
-#include "equipo.h"
-#include "textmisc.h"
+#include "lib/matchmisc.h"
+#include "lib/stattable.h"
+#include "lib/equipo.h"
+#include "lib/textmisc.h"
 #include <string>
 #include <fstream>
 #include <iostream>

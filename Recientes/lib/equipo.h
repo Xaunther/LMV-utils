@@ -1,8 +1,8 @@
 #ifndef equipo_h
 #define equipo_h
 
-#include "jugador.h"
-#include "constantes.h"
+#include "lib/jugador.h"
+#include "lib/constantes.h"
 #include <string>
 using namespace std;
 
