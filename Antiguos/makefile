@@ -1,3 +1,6 @@
+#Este makefile está pensado para ser usado en Linux.
+#En Windows recomiendo usar Dev-C++ o algún otro software para programar en C++
+
 #Variables
 GCC = g++
 Scripts = Modificar_plantillas.out Rankings.out Salarios.out Suma_Fit.out
