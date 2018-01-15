@@ -1,6 +1,6 @@
 #include <string>
-#include "lib/constantes.h"
-#include "lib/stattable.h"
+#include "constantes.h"
+#include "stattable.h"
 using namespace std;
 
 //Some misc functions needed

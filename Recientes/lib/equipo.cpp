@@ -1,6 +1,6 @@
-#include "lib/equipo.h"
-#include "lib/jugador.h"
-#include "lib/textmisc.h"
+#include "equipo.h"
+#include "jugador.h"
+#include "textmisc.h"
 #include <string>
 #include <fstream>
 #include <iomanip>

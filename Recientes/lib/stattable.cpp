@@ -1,5 +1,5 @@
 //Funciones de la clase tabla
-#include "lib/stattable.h"
+#include "stattable.h"
 #include <string>
 #include <fstream>
 #include <iomanip>

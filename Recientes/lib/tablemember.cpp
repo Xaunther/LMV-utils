@@ -1,5 +1,5 @@
 //Funciones 
-#include "lib/tablemember.h"
+#include "tablemember.h"
 using namespace std;
 
 void tablemember::AddScore(int value){score+=value;}

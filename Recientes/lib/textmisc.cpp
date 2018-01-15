@@ -1,6 +1,6 @@
 //Implementacion de las funciones
 
-#include "lib/textmisc.h"
+#include "textmisc.h"
 #include <string>
 #include <fstream>
 #include <stdlib.h>
