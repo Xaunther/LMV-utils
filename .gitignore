@@ -1,2 +1,7 @@
 #Obviar mierda de emacs
 *~
+
+#Obviar librerías y compilaciones varias
+*.o
+*.out
+*.exe
