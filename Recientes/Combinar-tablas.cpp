@@ -12,9 +12,9 @@
 #include <fstream>
 #include <iomanip>
 #include <cmath>
-#include "matchmisc.h"
-#include "constantes.h"
-#include "stattable.h"
+#include "lib/matchmisc.h"
+#include "lib/constantes.h"
+#include "lib/stattable.h"
 using namespace std;
 
 //Funcion principal

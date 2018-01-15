@@ -11,10 +11,10 @@
 #include <fstream>
 #include <stdlib.h>
 #include <time.h>
-#include "stattable.h"
-#include "equipo.h"
-#include "matchmisc.h"
-#include "constantes.h"
+#include "lib/stattable.h"
+#include "lib/equipo.h"
+#include "lib/matchmisc.h"
+#include "lib/constantes.h"
 using namespace std;
 
 //Funcion principal

@@ -9,8 +9,8 @@
 #include <iostream>
 #include <string>
 #include <fstream>
-#include "equipo.h"
-#include "matchmisc.h"
+#include "lib/equipo.h"
+#include "lib/matchmisc.h"
 using namespace std;
 
 //Funcion principal
