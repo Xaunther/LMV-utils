@@ -15,3 +15,5 @@ Cada uno de los scripts tiene un .cpp en este directorio. Todos ellos dependen d
 			 -. Ejecutas el script en la carpeta Champions, seleccionando la competición correspondiente.
 
 **GKs-suplentes.cpp**: Script que funciona en una carpeta de simulación y detecta si algún equipo está usando al portero titular cuando el suplente está disponible (Usado para competiciones donde el portero suplente sea obligatorio)
+
+**lib**: Carpeta donde se contienen las librerías con funciones, clases, etc.
