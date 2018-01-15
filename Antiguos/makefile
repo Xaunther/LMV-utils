@@ -15,7 +15,7 @@ clean: #Borra compilaciones
 	rm *.o *.so *.exe *.out
 
 Modificar_plantillas.out: Modificar_plantillas.cpp
-	$(GCC) Modificar_plantillas.cpp -o Modificar_plantillas.o
+	$(GCC) Modificar_plantillas.cpp -o Modificar_plantillas.out
 
 Rankings.out: Rankings.cpp
 	$(GCC) Rankings.cpp -o Rankings.out
