@@ -1,6 +1,7 @@
 /*************************************************************
-*Actualizador de plantillas                                  *
-*Deberia sustituir el actualizador de ESMS                   *
+*Combinador de plantillas                                    *
+*Útil para combinar tablas de goleadores en comp con fase de *
+* grupos                                                     *
 *                                                            *
 *                                                            *
 *                                                            *

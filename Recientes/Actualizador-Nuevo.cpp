@@ -50,6 +50,8 @@ int main()
 		system("pause");
 		return 0;
 	}
+	//Por defecto se realiza todo, descomenta las siguientes líneas si quieres activar el resto de opciones
+	
 	//Pregunto por las tareas a realizar
 	/*cout << endl << "Que quieres hacer?" << endl << endl;
 	cout << "1) Actualizar plantillas con los ultimos resultados" << endl;
